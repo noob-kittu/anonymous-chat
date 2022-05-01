@@ -1,2 +1,2 @@
 # anonymous-chat
-it's an anonymous chatting application where stranger connect to users without revealing their personal information. Anonymous chat not store users data for any kind for worst activity to earn money.
+It is an anonymous chatting application where strangers can connect with strangers as per their interest without revealing their personal information. Anonymous Chat does not store users data for worst activity to earn money.
